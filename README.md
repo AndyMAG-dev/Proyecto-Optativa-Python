@@ -53,3 +53,18 @@ Además, este proyecto nos da la oportunidad de practicar con Python y Machine L
 - numpy==1.26.4
 - seaborn==0.13.2
 - scikit-learn==1.5.1
+
+
+## Capturas de pantalla del proyecto que pidio la profe
+
+<div style="display: inline-block; text-align: center;">
+    <img src="./images/1.jpg" alt="Introduccion" width="900" style="border: 1px solid white;">
+    <img src="./images/2.jpg" alt="Importar librerias" width="900" style="border: 1px solid white;">
+    <img src="./images/3.jpg" alt="Exploracion de datos" width="900" style="border: 1px solid white;">
+    <img src="./images/4.jpg" alt="Uso de graficos" width="900" style="border: 1px solid white;">
+    <img src="./images/5.jpg" alt="Graficos de coorrelacion" width="900" style="border: 1px solid white;">
+    <img src="./images/6.jpg" alt="Limpieza de datos" width="900" style="border: 1px solid white;">
+    <img src="./images/7.jpg" alt="Manejo de valores nulos" width="900" style="border: 1px solid white;">
+    <img src="./images/8.jpg" alt="Eliminación de columnas" width="900" style="border: 1px solid white;">
+    <img src="./images/9.jpg" alt="Machine learning" width="900" style="border: 1px solid white;">
+</div>>
